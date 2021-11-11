@@ -9,6 +9,11 @@
 
 [![Muhammad Usama Ijaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadusamaijaz&hide=issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/muhammadusamaijaz/github-readme-stats)
 
+👇🏻 If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/usamaijaz) and add to my knowledge! 
+
+<a href="https://www.buymeacoffee.com/usamaijaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" ></a>
+
+
 
 
 <!--
